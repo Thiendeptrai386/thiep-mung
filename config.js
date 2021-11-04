@@ -1,6 +1,6 @@
 const nameGirl = 'Thiện đẹp trai';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng SN';
+const eventName = 'Chúc Mừng Năm mới';
 const titleCard = 'Thiện Đẹp Trai';
 const contentCard = 'Chúc honey của anh 13/4 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
