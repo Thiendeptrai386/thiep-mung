@@ -1,6 +1,6 @@
 const nameGirl = 'thien dz';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'thiện đep trai';
+const eventName = 'thiện đep sn';
 const titleCard = 'thiện đẹp trai';
 const contentCard = 'Chúc honey của anh 16/11 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
