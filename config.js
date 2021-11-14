@@ -1,6 +1,6 @@
 const nameGirl = 'Gửi vợ tương lai';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Merry Chistmas';
+const eventName = 'Merry Chistmas.';
 const titleCard = 'Noel';
 const contentCard = 'Chúc honey của anh 25/12 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
