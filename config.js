@@ -1,8 +1,8 @@
-const nameGirl = 'Thiện đẹp trai';
+const nameGirl = 'Merry chistmass';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Merry Chistmass';
-const titleCard = 'Noel';
-const contentCard = 'Chúc honey của anh 25/12 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
+const eventName = 'And happy new year';
+const titleCard = 'Master Thien';
+const contentCard = ' LÌ XÌ ĐIII.....';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
