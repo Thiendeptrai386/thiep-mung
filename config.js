@@ -1,6 +1,6 @@
-const nameGirl = 'And Happy New Year';
+const nameGirl = 'happy new year';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Merry Chistmass';
+const eventName = 'lixe nè';
 const titleCard = 'Master Thien';
 const contentCard = 'xã hội lầy chỉ có làm chịu khó cần cù thì bù xiêng năng chỉ có làm thì mới có ăn những cái loại không làm mà đòi có ăn thì ăn đb ăn cứt
 n ǝ^o1. !';
